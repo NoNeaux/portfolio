@@ -3,7 +3,11 @@ Daniel Miller
 
 Hi, I'm Daniel! I'm a technical writer who focuses on clarity, structure, and helping users understand complex products without friction. I’ve created documentation, blog content, and developer-facing guides for teams at IBM, Varonis, and other organizations.
 
-## What I Do
+## About This Portfolio
+
+This repo collects writing samples, small projects, and experiments. It’s a place to show how I think about content, organization, and user needs.
+
+### What I Do
 
 Technical documentation for APIs, platforms, and enterprise software
 
@@ -13,7 +17,7 @@ Product and feature overviews
 
 Clear, accessible content for both technical and non-technical readers
 
-## Selected Work
+### Selected Work
 
 API and integration docs
 
@@ -25,7 +29,7 @@ UX-focused content that improves onboarding and support experiences
 
 (We can turn these into links once you decide what you want to showcase.)
 
-## Tools I Use
+### Tools I Use
 
 Markdown, Git, GitHub, Hugo
 
@@ -34,7 +38,3 @@ OpenAPI, Postman, standard dev workflows
 HubSpot, Asana, and CMS tools
 
 HTML, CSS, and basic front-end familiarity
-
-## About This Portfolio
-
-This repo collects writing samples, small projects, and experiments. It’s a place to show how I think about content, organization, and user needs.
