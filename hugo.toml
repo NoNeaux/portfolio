@@ -1,4 +1,5 @@
-baseURL = "https://noneaux.github.io/portfolio/"
+baseURL = "https://NoNeaux.github.io/portfolio/"
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
