@@ -1,7 +1,7 @@
----
-title: "Test Page"
-date: 2025-01-01
-draft: false
+baseURL = "https://noneaux.github.io/portfolio/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "hugo-book"
 ---
 
 +++

@@ -1,3 +1,8 @@
+baseURL = "https://noneaux.github.io/portfolio/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "hugo-book"
+
 # Daniel Miller  
 
 Technical Writer • Content Strategist  
