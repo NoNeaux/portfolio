@@ -1,0 +1,51 @@
+/* === Typography Improvements for Resume === */
+
+/* Headings look cleaner, modern, recruiter-friendly */
+h1, h2, h3 {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-top: 2rem;
+}
+
+/* h1 — Big name at top */
+h1 {
+  font-size: 2.4rem;
+  border-bottom: 2px solid var(--color-contrast-low);
+  padding-bottom: 0.5rem;
+}
+
+/* h2 — Section headers (Experience, Skills) */
+h2 {
+  font-size: 1.6rem;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+}
+
+/* h3 — Job titles */
+h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-contrast-high);
+}
+
+/* Paragraph improvements */
+p {
+  line-height: 1.6;
+}
+
+/* Lists for bullet points */
+ul {
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+  padding-left: 1.2rem;
+}
+
+ul li {
+  margin-bottom: 0.3rem;
+}
+
+/* Make resume content wider */
+.book-page {
+  max-width: 900px !important;
+}

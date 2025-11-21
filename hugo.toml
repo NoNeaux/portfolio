@@ -2,3 +2,7 @@ baseURL = "https://noneaux.github.io/portfolio/"
 languageCode = "en-us"
 title = "Daniel Miller Resume"
 theme = "book"
+[params]
+  bookTheme = "auto"   # options: light, dark, auto
+  BookToC = false
+  customCSS = ["css/resume.css"]
