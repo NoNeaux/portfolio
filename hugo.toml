@@ -1,0 +1,4 @@
+baseURL = "https://noneaux.github.io/portfolio/"
+languageCode = "en-us"
+title = "Daniel Miller Resume"
+theme = "book"
