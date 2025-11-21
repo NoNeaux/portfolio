@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Miller Resume</title>
+    <link>http://localhost:1313/portfolio/index.html</link>
+    <description>Daniel Miller&#xD;Technical Writer • Content Strategist&#xA;GitHub Portfolio • LinkedIn • Email&#xA;Summary&#xD;Technical writer with experience creating clear, accessible documentation for complex products. I’ve worked on API docs, user guides, developer onboarding, and long-form technical content for teams at IBM, Varonis, and other organizations.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
