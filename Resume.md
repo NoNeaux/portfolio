@@ -16,7 +16,7 @@ Technical writer with experience creating clear, accessible documentation for co
 ### Varonis Systems  
 
 **Technical Content Manager, Cloud Security**  
-*January 2025 – Present*  
+*January 2025 – October 2025*  
 
 - Created and edited technical blogs, whitepapers, and content focused on cloud security, APIs, and SaaS platforms
 - Improved content retrieval and visibility using metadata tagging and structured authoring principles
