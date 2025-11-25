@@ -1,7 +1,7 @@
 # Daniel Miller  
 
 Technical Writer • Content Strategist  
-[GitHub Portfolio](https://github.com/NoNeaux/portfolio) • [LinkedIn](https://www.linkedin.com/in/dpmill/) • [Email](dpmill1120@gmail.com)
+[GitHub Portfolio](https://github.com/NoNeaux/portfolio) • [LinkedIn](https://www.linkedin.com/in/dpmill/) • [Email](mailto:dpmill1120@gmail.com)
 
 ---
 
