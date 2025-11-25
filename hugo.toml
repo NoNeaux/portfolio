@@ -4,16 +4,3 @@ languageCode = "en-us"
 title = "My Resume"
 theme = "book"
 
-# Disable search
-[params]
-  [params.search]
-    enable = false
-
-# Optional: Simplify site
-disableKinds = ["taxonomy", "taxonomyTerm", "section", "RSS", "sitemap", "page"]
-
-# Optional: book theme options
-[params.book]
-  hideFooter = true       # hides the default footer
-  showTOC = false         # hides table of contents
-  hideSiteTitle = false   # shows site title
