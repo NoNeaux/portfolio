@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://NoNeaux.github.io/Portfolio/"
+languageCode = "en-us"
+title = "My Resume"
+theme = "book"
+
+# Optional: simplify layout
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "RSS", "sitemap", "page"]
