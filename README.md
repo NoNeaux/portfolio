@@ -17,7 +17,7 @@ This repo collects writing samples, small projects, and experiments. It’s a pl
 
 ### Selected Work
 
-- [API](https://cloud.ibm.com/apidocs/kubernetes/containers-v1-v2#createsatellitecluster) and documentation
+- [API](https://cloud.ibm.com/apidocs/kubernetes/containers-v1-v2#createsatellitecluster) documentation
 - Product [walkthroughs and tutorials](https://www.varonis.com/blog/create-s3-bucket)
 - [UX-focused content that improves onboarding and support experiences](https://cloud.ibm.com/docs/satellite?topic=satellite-storage-template-ov)
 - Blog articles aimed at [security](https://www.varonis.com/blog/forcedleak), [data protection](https://www.varonis.com/blog/what-is-dam), and [general tech news](https://www.varonis.com/blog/salesloft-drift-breach-and-saas-risk-)
