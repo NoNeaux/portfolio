@@ -10,11 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v4
         with:
           hugo-version: 'latest'
 
