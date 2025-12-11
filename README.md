@@ -6,7 +6,7 @@ Hi, I'm Daniel! I'm a technical writer who focuses on clarity, structure, and he
 
 ## About This Portfolio
 
-This repo collects writing samples, small projects, and experiments. It’s a place to show how I think about content, organization, and user needs.
+This repo collects writing samples, small projects, and experiments. It’s a place to show how I think about content, organization, and user needs. It is also the repo that hosts my [Hugo Portfolio](https://noneaux.github.io/Portfolio/) which at the moment features my resume. I created it as a quick project to revisit command line tooling and get hands-on experience setting up a lightweight site using Hugo.
 
 ### What I Do
 
